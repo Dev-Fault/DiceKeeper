@@ -1,0 +1,10 @@
+C:\Users\blake\source\repos\DiceKeeper\bin\Debug\DiceKeeper.exe.config
+C:\Users\blake\source\repos\DiceKeeper\bin\Debug\DiceKeeper.exe
+C:\Users\blake\source\repos\DiceKeeper\bin\Debug\DiceKeeper.pdb
+C:\Users\blake\source\repos\DiceKeeper\obj\Debug\DiceKeeper.Properties.Resources.resources
+C:\Users\blake\source\repos\DiceKeeper\obj\Debug\DiceKeeper.csproj.GenerateResource.cache
+C:\Users\blake\source\repos\DiceKeeper\obj\Debug\DiceKeeper.csproj.CoreCompileInputs.cache
+C:\Users\blake\source\repos\DiceKeeper\obj\Debug\DiceKeeper.exe
+C:\Users\blake\source\repos\DiceKeeper\obj\Debug\DiceKeeper.pdb
+C:\Users\blake\source\repos\DiceKeeper\obj\Debug\DiceKeeper.DiceKeeper.resources
+C:\Users\blake\source\repos\DiceKeeper\obj\Debug\DiceKeeper.csproj.AssemblyReference.cache
